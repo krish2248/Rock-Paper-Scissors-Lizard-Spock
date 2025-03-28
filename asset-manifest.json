@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Rock-Paper-Scissors-Lizard-Spock/static/css/main.5c209139.css",
+    "main.js": "/Rock-Paper-Scissors-Lizard-Spock/static/js/main.1227d217.js",
+    "static/js/366.896f5a57.chunk.js": "/Rock-Paper-Scissors-Lizard-Spock/static/js/366.896f5a57.chunk.js",
+    "static/js/819.b92c5817.chunk.js": "/Rock-Paper-Scissors-Lizard-Spock/static/js/819.b92c5817.chunk.js",
+    "static/js/157.8be21523.chunk.js": "/Rock-Paper-Scissors-Lizard-Spock/static/js/157.8be21523.chunk.js",
+    "static/js/787.c8ffd4a8.chunk.js": "/Rock-Paper-Scissors-Lizard-Spock/static/js/787.c8ffd4a8.chunk.js",
+    "static/js/845.d3cd3817.chunk.js": "/Rock-Paper-Scissors-Lizard-Spock/static/js/845.d3cd3817.chunk.js",
+    "static/js/881.b74aaa84.chunk.js": "/Rock-Paper-Scissors-Lizard-Spock/static/js/881.b74aaa84.chunk.js",
+    "static/js/340.a3b65fcf.chunk.js": "/Rock-Paper-Scissors-Lizard-Spock/static/js/340.a3b65fcf.chunk.js",
+    "static/js/607.ba46513d.chunk.js": "/Rock-Paper-Scissors-Lizard-Spock/static/js/607.ba46513d.chunk.js",
+    "static/media/bg-image 1.jpg": "/Rock-Paper-Scissors-Lizard-Spock/static/media/bg-image 1.6fbb6e4d669684490c0f.jpg",
+    "static/media/klingon-symbols.png": "/Rock-Paper-Scissors-Lizard-Spock/static/media/klingon-symbols.2a7545e51f5ba2a43668.png",
+    "static/media/icon-paper.png": "/Rock-Paper-Scissors-Lizard-Spock/static/media/icon-paper.4ea2d4d27000f5e1c9e8.png",
+    "static/media/icon-rock.png": "/Rock-Paper-Scissors-Lizard-Spock/static/media/icon-rock.a8bc5d87ed2c8b42b765.png",
+    "static/media/icon-lizard.png": "/Rock-Paper-Scissors-Lizard-Spock/static/media/icon-lizard.fefcb0a65916f9bdaf75.png",
+    "static/media/icon-spock.png": "/Rock-Paper-Scissors-Lizard-Spock/static/media/icon-spock.c88e0bf773561c30f8e6.png",
+    "static/media/icon-scissors.png": "/Rock-Paper-Scissors-Lizard-Spock/static/media/icon-scissors.33a7a260bbef2372393e.png",
+    "service-worker.js": "/Rock-Paper-Scissors-Lizard-Spock/service-worker.js",
+    "static/media/game-click.mp3": "/Rock-Paper-Scissors-Lizard-Spock/static/media/game-click.fc5f1bfae9551b3cf94a.mp3",
+    "static/media/klingon-hum.mp3": "/Rock-Paper-Scissors-Lizard-Spock/static/media/klingon-hum.348961dd54ce4cc85815.mp3",
+    "static/media/image-rules-bonus.svg": "/Rock-Paper-Scissors-Lizard-Spock/static/media/image-rules-bonus.513320fbf32ba9e4a81fba903a77b85f.svg",
+    "index.html": "/Rock-Paper-Scissors-Lizard-Spock/index.html",
+    "static/media/icon-close.svg": "/Rock-Paper-Scissors-Lizard-Spock/static/media/icon-close.bde602ecd1a4e55e0c27137ed651e027.svg",
+    "main.5c209139.css.map": "/Rock-Paper-Scissors-Lizard-Spock/static/css/main.5c209139.css.map",
+    "main.1227d217.js.map": "/Rock-Paper-Scissors-Lizard-Spock/static/js/main.1227d217.js.map",
+    "366.896f5a57.chunk.js.map": "/Rock-Paper-Scissors-Lizard-Spock/static/js/366.896f5a57.chunk.js.map",
+    "819.b92c5817.chunk.js.map": "/Rock-Paper-Scissors-Lizard-Spock/static/js/819.b92c5817.chunk.js.map",
+    "157.8be21523.chunk.js.map": "/Rock-Paper-Scissors-Lizard-Spock/static/js/157.8be21523.chunk.js.map",
+    "787.c8ffd4a8.chunk.js.map": "/Rock-Paper-Scissors-Lizard-Spock/static/js/787.c8ffd4a8.chunk.js.map",
+    "845.d3cd3817.chunk.js.map": "/Rock-Paper-Scissors-Lizard-Spock/static/js/845.d3cd3817.chunk.js.map",
+    "881.b74aaa84.chunk.js.map": "/Rock-Paper-Scissors-Lizard-Spock/static/js/881.b74aaa84.chunk.js.map",
+    "340.a3b65fcf.chunk.js.map": "/Rock-Paper-Scissors-Lizard-Spock/static/js/340.a3b65fcf.chunk.js.map",
+    "607.ba46513d.chunk.js.map": "/Rock-Paper-Scissors-Lizard-Spock/static/js/607.ba46513d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c209139.css",
+    "static/js/main.1227d217.js"
+  ]
+}
