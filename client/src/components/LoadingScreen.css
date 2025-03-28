@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+.loading-screen {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background: radial-gradient(circle, #4a0000, #000);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ff3333;
+  font-size: 24px;
+  font-family: 'Orbitron', sans-serif;
+  text-align: center;
+  z-index: 9999;
+  overflow: hidden;
+}
+
+/* Klingon Symbols Background */
+.klingon-symbols {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('../../public/klingon-symbols.png') repeat;
+  opacity: 0.15;
+}
+
+/* Horizontal Loading Message */
+.loading-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+/* Glowing Quantum Effect */
+.quantum-text {
+  display: flex;
+  gap: 0.5rem;
+  font-size: 18px;
+  color: #ff0000; /* Bright red color */
+  text-shadow: 0 0 10px #ff0000, 0 0 20px #660000;
+  font-weight: bold;
+}
+
+/* Animated Klingon Text - Fading in one by one */
+.fade-word {
+  opacity: 1; /* Make the text static */
+}
+
+/* Small Glowing Red Dot */
+.red-glowing-dot {
+  width: 20px;
+  height: 20px;
+  background: #ff3333;
+  border-radius: 50%;
+  box-shadow: 0 0 10px #ff3333, 0 0 20px #ff3333;
+  animation: pulse 0.5s infinite alternate;
+  margin-top: 20px;
+}
+
+@keyframes pulse {
+  from { transform: scale(0.8); }
+  to { transform: scale(1.2); }
+}
+
+/* Loading Quote */
+.loading-quote {
+  font-size: 18px;
+  color: #00ffcc;
+  text-shadow: 0 0 10px #00ffcc, 0 0 20px #009999;
+  margin-top: 20px;
+  animation: fadeIn 2s ease-in-out;
+}
